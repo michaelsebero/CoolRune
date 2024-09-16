@@ -38,8 +38,6 @@
 ..................................................................................................................................................
 
  - In Konsole there's a list of quick commands provided in [ - Commands - ]
-
- - If you have a wireless internet connection, look in Konsole for [ Connect to Wi-Fi ]
  
  - The command [ install-optional ] installs optional packages for CoolRune, this is useful if you have a laptop.
 
@@ -59,14 +57,12 @@
 
  - Use [ GloriousEggroll ] which is provided with CoolRune as your proton prefix for Steam.
 
- - To get more FPS for games and better visuals copy / paste [ gamemoderun ENABLE_VKBASALT=1 %command% ] in launch options -
+ - To get more FPS for games and better visuals copy & paste [ gamemoderun ENABLE_VKBASALT=1 %command% ] in launch options -
    which is found through properties in Steam.
  
  - CoolRune comes with a customized LibreWolf instance called "Vanguard" which is tweaked to have maximum security.
 
  > https://github.com/MichaelSebero/Vanguard-Browser
-
- - You can tile applications by moving them to the middle left / right, bottom left / right and bottom middle corners.
 
 ..................................................................................................................................................
 
@@ -95,7 +91,9 @@
  
  . pd
 
- - This command searches Pacman, AUR and Flatpak for specific packages based off keywords. 
+ - This command searches Pacman, AUR and Flatpak for specific packages based off keywords.
+ 
+ - Press Q to leave the enviroment
 
 ..................................................................................................................................................
 
@@ -148,14 +146,6 @@
  . p [ DIRECTORY TO .py FILE ]
  
  - Example: p /home/1.py
-
-..................................................................................................................................................
-
- / INSTALL AND UNINSTALL PYTHON MODULES /
-
- . pip [ MODULE ]
-
- . pip-u [ MODULE ]
 
 ..................................................................................................................................................
 
@@ -263,6 +253,8 @@
  
  . give-random-name
  
+ . give-random-name-r
+ 
  . mass-uppercase
  
  . mass-uppercase-r
@@ -317,7 +309,9 @@
  
  . convert-to-opus
  
- . cue-file-generator
+ . generate-album-sections
+ 
+ . lossless-separator
  
  . mass-crop-images
  
@@ -472,9 +466,29 @@
  
 ..................................................................................................................................................
 
+ / FIX CURSOR /
+ 
+ . fix-cursor
+ 
+ - This command frees your cursor if it's stuck
 
+..................................................................................................................................................
 
+ / FIX CORRUPT /
+ 
+ . fix-corrupt
 
+ - This command fixes corrupt packages in the system.
+
+..................................................................................................................................................
+
+ / REINSTALL ALL /
+ 
+ . reinstall-all
+
+ - This command reinstalls all packages in the system.
+
+..................................................................................................................................................
 
 ==================================================================================================================================================
 
