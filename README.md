@@ -19,7 +19,7 @@ https://github.com/CachyOS/linux-cachyos
 	
 . System hardening tweaks via Linux Hardening Script.
 	
-https://github.com/MichaelSebero/Linux-Hardening-Script
+https://github.com/michaelsebero/Linux-Hardening-Script
 	
 . MAC address randomization on boot.
 	
@@ -29,7 +29,7 @@ https://github.com/MichaelSebero/Linux-Hardening-Script
 	
 . A custom version of LibreWolf that's more secure and lighter than Brave.
 
-https://github.com/MichaelSebero/Vanguard-Browser
+https://github.com/michaelsebero/Vanguard-Browser
 	
 . DNS traffic encryption via DNSCrypt.
 	
@@ -39,33 +39,33 @@ https://github.com/MichaelSebero/Vanguard-Browser
 	
 . Quick Commands and Productivity tools.
 	
-https://github.com/MichaelSebero/Archivist-Tools
+https://github.com/michaelsebero/Archivist-Tools
 	
-https://github.com/MichaelSebero/Document-Tools
+https://github.com/michaelsebero/Document-Tools
 	
-https://github.com/MichaelSebero/Media-Tools
+https://github.com/michaelsebero/Media-Tools
 	
-https://github.com/MichaelSebero/Productivity-Mode
+https://github.com/michaelsebero/Productivity-Mode
 	
-https://github.com/MichaelSebero/Steal-Command
+https://github.com/michaelsebero/Steal-Command
 	
 ## Quality Features
 	
 . Includes an easy to understand manual.
 	
-https://raw.githubusercontent.com/MichaelSebero/CoolRune/main/files/coolrune-manual/Manual
+https://raw.githubusercontent.com/michaelsebero/CoolRune/main/files/coolrune-manual/Manual
 	
 . Chaotic-AUR and Flatpack repository integration.
 	
 . Includes a troubleshooting program which fixes most issues.
 	
-https://github.com/MichaelSebero/Fix-Arch-Linux
+https://github.com/michaelsebero/Fix-Arch-Linux
 	
 . Pre-configured PipeWire audio.
 	
 . Repo package searching.
 	
-https://github.com/MichaelSebero/Arch-Package-Dictionary
+https://github.com/michaelsebero/Arch-Package-Dictionary
 	
 <p align="center">
 	<img src="https://i.postimg.cc/C53HDLTZ/ksnip-20240224-100057.png" />

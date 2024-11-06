@@ -10,8 +10,8 @@ cleanup() {
 trap cleanup INT TERM ERR EXIT
 
 # SCRIPT VOCABULARY / USER MODIFICATION SECTION
-root_files="wget https://github.com/MichaelSebero/CoolRune/raw/main/files/coolrune-packages/coolrune-root.7z"
-nvidia_patch="wget https://github.com/MichaelSebero/CoolRune/raw/main/files/coolrune-packages/coolrune-nvidia-patch.7z"
+root_files="wget https://github.com/michaelsebero/CoolRune/raw/main/files/coolrune-packages/coolrune-root.7z"
+nvidia_patch="wget https://github.com/michaelsebero/CoolRune/raw/main/files/coolrune-packages/coolrune-nvidia-patch.7z"
 
 # COOLRUNE CHOICE SELECTION
 echo "Make sure to backup your passwords and bookmarks before updating CoolRune"
